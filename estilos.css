@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background: #cccccc;
+    padding: 15px;
+    display: block;
+}
